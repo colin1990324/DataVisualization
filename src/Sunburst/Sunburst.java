@@ -48,7 +48,7 @@ public class Sunburst {
 		level1.add(life);
 		level1.add(tech);
 
-		String[] pageUrl = { "about", "search", "word-cloud", "sunburst" };
+		String[] pageUrl = { "about", "search", "word-cloud", "sunburst", "travel-china", "chord" };
 		for (String s : pageUrl) {
 			level21.add(getTitle(url + "/" + s + "/index.md"));
 		}

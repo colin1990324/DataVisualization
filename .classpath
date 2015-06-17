@@ -5,5 +5,6 @@
 	<classpathentry kind="lib" path="/Hansight/jar/ansj_seg-2.0.8-min.jar"/>
 	<classpathentry kind="lib" path="/Hansight/jar/nlp-lang-0.3.jar"/>
 	<classpathentry kind="lib" path="jar/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/Neo4j_EmailHeader/jar/commons-csv-1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
